@@ -1,13 +1,13 @@
-#API LINK:https://documenter.getpostman.com/view/32354018/2s9YymGQ62
+# API LINK:https://documenter.getpostman.com/view/32354018/2s9YymGQ62
 
-#Figma Design link:https://www.figma.com/file/S1i9faI4I7lmq6C2bT6Q8y/Job_Vista?type=design&node-id=0%3A1&mode=design&t=MUI9imCeNhGMjQ67-1
+# Figma Design link:https://www.figma.com/file/S1i9faI4I7lmq6C2bT6Q8y/Job_Vista?type=design&node-id=0%3A1&mode=design&t=MUI9imCeNhGMjQ67-1
 
-#frontend deploy link:https://jobvistaaa.netlify.app/
+# frontend deploy link:https://jobvistaaa.netlify.app/
 
-#backend link:https://job-vista.onrender.com
-#video link:https://drive.google.com/file/d/1BsgRde2NodPLILivn-UPe2rasYjz_wNV/view?usp=drive_link
-# Name: varsha
-# Registration Number: 12100888
+# backend link:https://job-vista.onrender.com
+
+# Name: Shreya
+# Registration Number: 12115678
 
 ## Project: JobVista
 
@@ -28,15 +28,15 @@ ZipRecruiter:https://www.ziprecruiter.in/
 
 The Job Board Platform aims to revolutionize the job search and recruitment experience by addressing key challenges in the existing landscape, the platform offers innovative solutions to enhance both job seekers' and employers' interactions:
 
-#Personalization: The platform employs advanced algorithms to provide personalized job recommendations for each user based on their profiles, preferences, and search history. This ensures that job seekers receive tailored suggestions, improving the relevance and effectiveness of their job search.
+# Personalization: The platform employs advanced algorithms to provide personalized job recommendations for each user based on their profiles, preferences, and search history. This ensures that job seekers receive tailored suggestions, improving the relevance and effectiveness of their job search.
 
-#Efficient Application Management: Job seekers benefit from a streamlined application tracking system that allows them to monitor the status of their applications, receive timely updates, and manage their entire job search process more effectively. Employers, on the other hand, gain tools for efficient application processing, reducing recruitment cycle times.
+# Efficient Application Management: Job seekers benefit from a streamlined application tracking system that allows them to monitor the status of their applications, receive timely updates, and manage their entire job search process more effectively. Employers, on the other hand, gain tools for efficient application processing, reducing recruitment cycle times.
 
-#User-Friendly Tools: The platform prioritizes an intuitive and user-friendly interface. For employers, posting job listings, managing applications, and communicating with candidates are made seamless. Job seekers experience easy navigation, simplified application processes, and tools to showcase their qualifications.
+# User-Friendly Tools: The platform prioritizes an intuitive and user-friendly interface. For employers, posting job listings, managing applications, and communicating with candidates are made seamless. Job seekers experience easy navigation, simplified application processes, and tools to showcase their qualifications.
 
-#Analytics and Reporting: Employers benefit from comprehensive analytics tools that offer insights into job listing performance, applicant demographics, and other relevant metrics. These analytics empower employers to make data-driven decisions and refine their recruitment strategies.
+# Analytics and Reporting: Employers benefit from comprehensive analytics tools that offer insights into job listing performance, applicant demographics, and other relevant metrics. These analytics empower employers to make data-driven decisions and refine their recruitment strategies.
 
-#Social Media Integration: Recognizing the importance of social networks in modern recruitment, the platform seamlessly integrates with social media platforms. This enables users to log in via their social media accounts, share job listings, and expand their professional networks.
+# Social Media Integration: Recognizing the importance of social networks in modern recruitment, the platform seamlessly integrates with social media platforms. This enables users to log in via their social media accounts, share job listings, and expand their professional networks.
 
 ### List Of Features:
 
